@@ -19,6 +19,7 @@
     "joi": "^10.6.0",
     "jsonwebtoken": "^8.0.0",
     "morgan": "^1.8.2",
+    "nodemon": "^1.19.1",
     "passport": "^0.4.0",
     "passport-jwt": "^3.0.0",
     "sequelize": "^5.13.1",
